@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+    <string name="app_name">PeaShooter</string>
+    <string name="OneDriveClientID">4f7b185c-5f2e-4b64-bae5-9933568eaa49</string>
+</resources>
